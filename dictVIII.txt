@@ -1,0 +1,12 @@
+('Excessive', 'bail', 'shall', 'not', 'be'):0.0024154589372
+('bail', 'shall', 'not', 'be', 'required'):0.0024154589372
+('be', 'required', 'nor', 'excessive', 'fines'):0.0024154589372
+('cruel', 'and', 'unusual', 'punishments', 'inflicted'):0.0024154589372
+('excessive', 'fines', 'imposed', 'nor', 'cruel'):0.0024154589372
+('fines', 'imposed', 'nor', 'cruel', 'and'):0.0024154589372
+('imposed', 'nor', 'cruel', 'and', 'unusual'):0.0024154589372
+('nor', 'cruel', 'and', 'unusual', 'punishments'):0.0024154589372
+('nor', 'excessive', 'fines', 'imposed', 'nor'):0.0024154589372
+('not', 'be', 'required', 'nor', 'excessive'):0.0024154589372
+('required', 'nor', 'excessive', 'fines', 'imposed'):0.0024154589372
+('shall', 'not', 'be', 'required', 'nor'):0.0024154589372
